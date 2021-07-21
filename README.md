@@ -33,4 +33,26 @@ El primer paso que se empleo fué el de listar los datos a almacenar, en este ca
 
 Se inicio creando un ambiente virtual de programación.
 
+```bash
+  python3 -m venv TuGerente_env
+  source TuGerente_env/bin/activate
+```
 
+Dentro del ambiente virtual se instala la libreria de Django
+
+```bash
+  pip3 install Django
+```
+
+Se procede a crear el proyecto e iniciarlo, todos los archivos se encuentran en la carpeta ```TuGerente_env```. Después de hacer las migraciones y configuraciones y código del proyecto, se debe crear un superuser.
+
+
+```bash
+  python3 manage.py createsuperuser
+```
+
+Nos pedirá ingresar un nombre, correo y contraseña.
+
+| Nombre | Correo     | Contraseña                |
+| :-------- | :------- | :------------------------- |
+| `TuGerente` | `mail@tugerente.com` | **123456** |
