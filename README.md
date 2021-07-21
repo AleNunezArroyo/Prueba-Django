@@ -93,3 +93,18 @@ Nos despliega un formulario en los cuales debemos añadir a los usuarios, se tom
 ### Llenado de formulario
 
 ![](images/formu.png)
+
+Llenado el registro de usuarios se procede a hacer la consulta de manera pública sin necesidad de tener una cuenta. Ingresando al enlace http://127.0.0.1:8000/api/person/ para listar a todas las personas registradas.
+
+![](images/allpeople.png)
+
+Para filtrar a un usuario por ID o número de facturación y saber el estado del mismo. http://127.0.0.1:8000/api/person/3/, donde el 3 especifíca el número de ID.
+
+![](images/id3.png)
+
+Finalmente para buscar una persona que tenga ciertos caracteres en el nombre. 
+
+![](images/ale.png)
+
+Datos de contacto: ale.nunez.arroyo@gmail.com
+
