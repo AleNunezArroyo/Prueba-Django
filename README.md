@@ -102,7 +102,7 @@ Para filtrar a un usuario por ID o número de facturación y saber el estado del
 
 ![](images/id3.png)
 
-Finalmente para buscar una persona que tenga ciertos caracteres en el nombre. 
+Finalmente para buscar una persona que tenga ciertos caracteres en el nombre. http://127.0.0.1:8000/api/person/?name=Ale
 
 ![](images/ale.png)
 
