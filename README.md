@@ -70,4 +70,18 @@ Debemos ingresar al enlace: http://127.0.0.1:8000/, la primera vez nos aparece e
 
 ![](images/enlace.png)
 
-Para ello entramos al dashboard de administración.
+Para ello entramos al dashboard de administración, mediante este enlace: http://127.0.0.1:8000/admin/login/?next=/admin/, ingresamos los datos del superusuario. 
+
+![](images/adm.png)
+
+Para añadir a un nuevo usuario precionamos `Persons` y `ADD PERSON`.
+
+![](images/add.png)
+
+Nos despliega un formulario en los cuales debemos añadir a los usuarios, se tomaron en cuenta los datos a almacenar presentados en `Datos recopilados`, además cada campo es validado deacuerdo a lo que corresponda (si el dato es correo se almacena en string, si es número solo tipo de datos enteros).
+
+![](images/person.png)
+
+![](images/calendar.png)
+
+![](images/state.png)
