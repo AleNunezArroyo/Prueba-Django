@@ -89,3 +89,7 @@ Nos despliega un formulario en los cuales debemos añadir a los usuarios, se tom
 ![](images/calendar.png)
 
 ![](images/state.png)
+
+### Llenado de formulario
+
+![](images/formu.png)
