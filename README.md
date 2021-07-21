@@ -65,3 +65,9 @@ Para ejecutar el servidor ejecutamos el siguiente comando.
 Una vez ejecutado se debe ingresar al enlace que aparece en terminal
 
 ![](images/terminal.png)
+
+Debemos ingresar al enlace: http://127.0.0.1:8000/, la primera vez nos aparece el siguiente error, ya que debemos especificar una dirección.
+
+![](images/enlace.png)
+
+Para ello entramos al dashboard de administración.
