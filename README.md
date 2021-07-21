@@ -56,3 +56,12 @@ Nos pedirá ingresar un nombre, correo y contraseña.
 | Nombre | Correo     | Contraseña                |
 | :-------- | :------- | :------------------------- |
 | `TuGerente` | `mail@tugerente.com` | **123456** |
+
+Para ejecutar el servidor ejecutamos el siguiente comando.
+
+```bash
+  python3 manage.py runserver
+```
+Una vez ejecutado se debe ingresar al enlace que aparece en terminal
+
+![](images/terminal.png)
