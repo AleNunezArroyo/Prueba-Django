@@ -78,7 +78,7 @@ Para añadir a un nuevo usuario precionamos `Persons` y `ADD PERSON`.
 
 ![](images/add.png)
 
-Nos despliega un formulario en los cuales debemos añadir a los usuarios, se tomaron en cuenta los datos a almacenar presentados en `Datos recopilados`, además cada campo es validado deacuerdo a lo que corresponda (si el dato es correo se almacena en string, si es número solo tipo de datos enteros).
+Nos despliega un formulario en los cuales debemos añadir a los usuarios, se tomaron en cuenta los datos a almacenar presentados en `Datos recopilados`, además cada campo es validado deacuerdo a lo que corresponda (si el dato es correo se almacena en string, si es número solo tipo de datos enteros, si solo habian 3 opciones como Estado de la reserva, solo puede seleccionar una opción).
 
 ### Vista completa
 
